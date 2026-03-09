@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import { ShoppingBag, Heart, Menu, X, Search } from "lucide-react";
+import { ShoppingBag, Heart, Menu, X } from "lucide-react";
 import { useSelector } from "react-redux";
 import type { RootState } from "../redux/store";
 import { useState } from "react";
